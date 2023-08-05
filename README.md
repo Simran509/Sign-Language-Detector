@@ -1,5 +1,5 @@
 # Sign-Language-Detector
-#Home-page
+Home-page
 
 ![image](https://user-images.githubusercontent.com/77716898/212488282-0729cfec-2c0a-4509-b5aa-ca9b3d312066.png)
 
