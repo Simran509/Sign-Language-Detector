@@ -1,11 +1,11 @@
 # Sign-Language-Detector
-#home-page
+#Home-page
 
 ![image](https://user-images.githubusercontent.com/77716898/212488282-0729cfec-2c0a-4509-b5aa-ca9b3d312066.png)
 
 ![image](https://user-images.githubusercontent.com/77716898/212488307-d4e7331c-195f-463b-85a9-6fdf4a456ebe.png)
 
-we have 3 portals one for hearing aid,one for speaking aid and third one is our dataset...
+There are 3 portals one for hearing aid,one for speaking aid and third one is our dataset...
 
 #deaf portal and likewise dumb portal
 
